@@ -1,1 +1,3 @@
-This is my Read me archive
+This is my reeadme archive
+Here you will se some projects in HTML/CSS and JavaScript
+
